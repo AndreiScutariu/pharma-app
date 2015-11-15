@@ -1,0 +1,26 @@
+{
+  "name": "Web",
+  "description": "Web",
+  "main": "server/server.js",
+  "authors": [
+    "Andrei S"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "toastr": "~2.1.2",
+    "angular": "~1.4.7",
+    "angular-resource": "~1.4.7",
+    "angular-route": "~1.4.7",
+    "angular-material": "~0.11.4"
+  }
+}

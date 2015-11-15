@@ -1,0 +1,2 @@
+skeleton for MEAN stack
+MongoDB service is required
